@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:400,600,700');
+
+p {
+    font-size: 16;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+body {
+    margin: 0;
+}
+
+.nav-bar-container {
+    display: flex;
+    
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-33 {
+    flex-basis: 33.33334%;
+}
